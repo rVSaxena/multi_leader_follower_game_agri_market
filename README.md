@@ -1,4 +1,4 @@
-Extract the zip file. 
+Download the files. 
 
 Open a terminal in that directory and run the following command:
 pip install -r requirements.txt.
