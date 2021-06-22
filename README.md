@@ -1,7 +1,7 @@
 Extract the zip file. 
 
 Open a terminal in that directory and run the following command:
-pip install -r requirements.txt
+pip install -r requirements.txt.
 This will load the required packages.
 
 The 'mode' can be supplied via command line arguments.
