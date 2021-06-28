@@ -17,4 +17,4 @@ For example, to run the code with mode 1, type 'python MLFsim.py 1' in a termina
 
 To run with mode 0, no argument needs to be supplied, so simply type 'python MLFsim.py', but 'python MLFsim.py 0' would also work.
 
-I have hardcoded some ranges, and the output will be shown.
+The model is initialized with random values in a range, and the output will be shown.
